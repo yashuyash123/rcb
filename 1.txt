@@ -1,8 +1,3 @@
-rcb
-e sala cup 
-namde
-hi
-hello 
-jai
-yash
-
+a
+b
+c
